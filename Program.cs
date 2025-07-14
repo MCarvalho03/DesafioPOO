@@ -9,7 +9,7 @@ iphone.InstalarAplicativo("Aptoide");
 
 Console.WriteLine("\n");
 
-Console.WriteLine("Smartphone iPhone:");
+Console.WriteLine("Smartphone Nokia:");
 Smartphone nokia = new Nokia (numero: "1602", model:"5", imei:"443654635345", memoria:256);
 iphone.ReceberLigacao();
 iphone.InstalarAplicativo("Nubank");
